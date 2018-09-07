@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HTMLCleaner": {
+      "commandName": "Project",
+      "commandLineArgs": "c:/temp/catcontract.html c:/temp/catcontract.text"
+    }
+  }
+}

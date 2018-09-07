@@ -1,0 +1,11 @@
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\bin\Debug\netcoreapp2.1\HTMLCleaner.deps.json
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\bin\Debug\netcoreapp2.1\HTMLCleaner.runtimeconfig.json
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\bin\Debug\netcoreapp2.1\HTMLCleaner.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\bin\Debug\netcoreapp2.1\HTMLCleaner.dll
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\bin\Debug\netcoreapp2.1\HTMLCleaner.pdb
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\obj\Debug\netcoreapp2.1\HTMLCleaner.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\obj\Debug\netcoreapp2.1\HTMLCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\obj\Debug\netcoreapp2.1\HTMLCleaner.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\obj\Debug\netcoreapp2.1\HTMLCleaner.AssemblyInfo.cs
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\obj\Debug\netcoreapp2.1\HTMLCleaner.dll
+C:\Users\Michael\Desktop\Programming\Projects\CSharpTools\HTMLCleaner\HTMLCleaner\obj\Debug\netcoreapp2.1\HTMLCleaner.pdb
